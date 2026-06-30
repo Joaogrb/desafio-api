@@ -5,7 +5,7 @@ API REST para realização de transferências(transações) entre contas.
 Java 25  
 Spring Boot 4.1  
 Banco de Dados: H2 Database  
-Gerenciador de dependências: Maven  
+Gerenciador de dependências e build: Maven  
 
 ⚙️ Configuração e Instalação
 
@@ -15,14 +15,12 @@ git clone https://github.com/Joaogrb/desafio-api/
 2. Entre na pasta do projeto:
 cd desafio-api
 
-▶️ Como Executar
+▶️ Como Executar(Via Terminal)
 
-Via Terminal (Maven)
-
-No Linux / macOS
+No Linux / macOS  
 ./mvnw spring-boot:run
 
-No Windows (CMD / PowerShell)
+No Windows (CMD / PowerShell)  
 mvnw.cmd spring-boot:run
 
 🌐 Acessando a Aplicação
