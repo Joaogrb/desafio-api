@@ -25,11 +25,19 @@ No Linux / macOS
 ``` bash
 ./mvnw spring-boot:run
 ```
+**OBS: Execute o comando a baixo caso ocorra algum erro de permissão:**  
+``` bash
+chmod +x mvnw
+```
 
 No Windows (CMD / PowerShell)  
 ```bash
 mvnw.cmd spring-boot:run
 ```
+
+# Como Finalizar(via Terminal)
+
+Para finalizar a aplicação utilize o atalho **CRTL + c**.
 
 # Acessando a Aplicação
 
