@@ -11,7 +11,7 @@ OBS: Só é permitido realizar transferências para contas de titularidades dife
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Joaogrb/desafio-api/
+git clone https://github.com/joaogrbarros/desafio-api/
 ```
 
 2. Entre na pasta do projeto:
