@@ -1,4 +1,4 @@
-package com.desafio;
+package com.desafio.exception;
 
 public class BusinessException extends RuntimeException {
 

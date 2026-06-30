@@ -1,10 +1,19 @@
-package com.desafio;
+package com.desafio.service;
 
 import java.util.List;
 import java.util.UUID;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import com.desafio.dto.AccountResponse;
+import com.desafio.dto.TransactionCreateReponse;
+import com.desafio.dto.TransactionRequest;
+import com.desafio.entity.Account;
+import com.desafio.entity.Transaction;
+import com.desafio.exception.ResourceNotFoundException;
+import com.desafio.repository.AccountRepository;
+import com.desafio.repository.TransactionRepository;
 
 
 @Service

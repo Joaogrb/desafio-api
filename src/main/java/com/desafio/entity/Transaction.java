@@ -1,4 +1,4 @@
-package com.desafio;
+package com.desafio.entity;
 
 import java.math.BigDecimal;
 import java.time.OffsetDateTime;

@@ -1,4 +1,4 @@
-package com.desafio;
+package com.desafio.exception;
 
 import java.util.HashMap;
 import java.util.Map;

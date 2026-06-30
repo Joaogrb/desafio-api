@@ -1,4 +1,4 @@
-package com.desafio;
+package com.desafio.dto;
 
 import java.math.BigDecimal;
 

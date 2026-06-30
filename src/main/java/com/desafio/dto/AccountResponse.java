@@ -1,4 +1,4 @@
-package com.desafio;
+package com.desafio.dto;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @JsonPropertyOrder({ "id", "balance", "transactions" })
-interface AccountResponse {
+public interface AccountResponse {
 	Long getId();
 	BigDecimal getBalance();
 	List<TransactionResponse> getTransactions();
