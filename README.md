@@ -19,10 +19,10 @@ cd desafio-api
 
 Via Terminal (Maven)
 
-# No Linux / macOS
+No Linux / macOS
 ./mvnw spring-boot:run
 
-# No Windows (CMD / PowerShell)
+No Windows (CMD / PowerShell)
 mvnw.cmd spring-boot:run
 
 🌐 Acessando a Aplicação
