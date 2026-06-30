@@ -1,11 +1,10 @@
-API REST para realização de transferências(transações) entre contas.
+A aplicação foi desenvolvida utilizando Java Spring Boot e expõe uma API REST para realização de transferências entre contas.
+As contas são inseridas ao iniciar a aplicação
+É possível buscá-las através do endpoint GET /accounts
+Após é só realizar a criação da transferência através do endpoint POST /accounts/{accountId}/transactions
 
-🚀 Tecnologias
+OBS: Só é permitido realizar transferências para contas de titularidades diferentes.
 
-Java 25  
-Spring Boot 4.1  
-Banco de Dados: H2 Database  
-Gerenciador de dependências e build: Maven  
 
 ⚙️ Configuração e Instalação
 
