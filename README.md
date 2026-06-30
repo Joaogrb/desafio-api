@@ -2,10 +2,10 @@ API REST para realização de transferências(transações) entre contas.
 
 🚀 Tecnologias
 
-Java 25
-Spring Boot 4.1
-Banco de Dados: H2 Database
-Gerenciador de dependências: Maven
+Java 25  
+Spring Boot 4.1  
+Banco de Dados: H2 Database  
+Gerenciador de dependências: Maven  
 
 ⚙️ Configuração e Instalação
 
